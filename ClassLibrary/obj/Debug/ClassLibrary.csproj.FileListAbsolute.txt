@@ -1,0 +1,17 @@
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\GTANetworkServer.exe
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\GTANetworkShared.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\Lidgren.Network.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\protobuf-net.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\Mono.Posix.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\Nancy.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\Owin.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\Nancy.Owin.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\Microsoft.Owin.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\GTANetworkServer.pdb
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\NytherioServer.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\NytherioServer.pdb
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\obj\Debug\NytherioServer.dll
+C:\Users\jesse\RiderProjects\ClassLibrary\ClassLibrary\obj\Debug\NytherioServer.pdb
